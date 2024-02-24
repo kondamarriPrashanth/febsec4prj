@@ -8,16 +8,16 @@ namespace FebSec4Prj
 {
     public class Pizza
     {
-        public string Authenticate(string CustomerName, string password)
+        public string Authenticate(string ShoapName, string Address)
         {
             string msg;
-            if (string.IsNullOrEmpty(CustomerName) || string.IsNullOrEmpty(password))
+            if (string.IsNullOrEmpty(ShoapName) || string.IsNullOrEmpty(Address))
             {
                 msg = "user name and password required ";
             }
             else
             {
-                if ((CustomerName == "admin") && (password == "admin123@"))
+                if ((ShoapName == "Slice Delight") && (Address == "Hyd"))
                 {
                     msg = "Authentication pass";
                 }
@@ -27,6 +27,7 @@ namespace FebSec4Prj
                 }
             }
             return "provide user details";
+            
         }
     }
 }

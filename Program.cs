@@ -2,5 +2,7 @@
 using FebSec4Prj;
 
 Console.WriteLine("WELCOME TO JOE'S PIZZA SHOAP!");
+Console.WriteLine("Enter the Shoapname:Slice Deligh");
+Console.WriteLine("Enter the Address:Hyd");
 Pizza p=new Pizza();
-Console.WriteLine(p.Authenticate("admin", "admin123@"));
+Console.WriteLine(p.Authenticate("Slice Delight", "Hyd"));
