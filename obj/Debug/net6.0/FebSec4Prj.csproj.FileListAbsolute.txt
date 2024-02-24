@@ -1,0 +1,15 @@
+E:\Emp\PHASE 4\Feb Section4\FebSec4Prj\FebSec4Prj\bin\Debug\net6.0\FebSec4Prj.exe
+E:\Emp\PHASE 4\Feb Section4\FebSec4Prj\FebSec4Prj\bin\Debug\net6.0\FebSec4Prj.deps.json
+E:\Emp\PHASE 4\Feb Section4\FebSec4Prj\FebSec4Prj\bin\Debug\net6.0\FebSec4Prj.runtimeconfig.json
+E:\Emp\PHASE 4\Feb Section4\FebSec4Prj\FebSec4Prj\bin\Debug\net6.0\FebSec4Prj.dll
+E:\Emp\PHASE 4\Feb Section4\FebSec4Prj\FebSec4Prj\bin\Debug\net6.0\FebSec4Prj.pdb
+E:\Emp\PHASE 4\Feb Section4\FebSec4Prj\FebSec4Prj\obj\Debug\net6.0\FebSec4Prj.GeneratedMSBuildEditorConfig.editorconfig
+E:\Emp\PHASE 4\Feb Section4\FebSec4Prj\FebSec4Prj\obj\Debug\net6.0\FebSec4Prj.AssemblyInfoInputs.cache
+E:\Emp\PHASE 4\Feb Section4\FebSec4Prj\FebSec4Prj\obj\Debug\net6.0\FebSec4Prj.AssemblyInfo.cs
+E:\Emp\PHASE 4\Feb Section4\FebSec4Prj\FebSec4Prj\obj\Debug\net6.0\FebSec4Prj.csproj.CoreCompileInputs.cache
+E:\Emp\PHASE 4\Feb Section4\FebSec4Prj\FebSec4Prj\obj\Debug\net6.0\FebSec4Prj.sourcelink.json
+E:\Emp\PHASE 4\Feb Section4\FebSec4Prj\FebSec4Prj\obj\Debug\net6.0\FebSec4Prj.dll
+E:\Emp\PHASE 4\Feb Section4\FebSec4Prj\FebSec4Prj\obj\Debug\net6.0\refint\FebSec4Prj.dll
+E:\Emp\PHASE 4\Feb Section4\FebSec4Prj\FebSec4Prj\obj\Debug\net6.0\FebSec4Prj.pdb
+E:\Emp\PHASE 4\Feb Section4\FebSec4Prj\FebSec4Prj\obj\Debug\net6.0\FebSec4Prj.genruntimeconfig.cache
+E:\Emp\PHASE 4\Feb Section4\FebSec4Prj\FebSec4Prj\obj\Debug\net6.0\ref\FebSec4Prj.dll
